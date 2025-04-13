@@ -15,12 +15,6 @@ Built with CustomPaint and Timer.periodic, this app demonstrates how to create c
 
 ---
 
-## 📸 Screenshots
-
-> _Add screenshots here if available (e.g., `assets/screenshots/timer.png`)_
-
----
-
 ## 🛠 Technologies Used
 
 - Flutter  
