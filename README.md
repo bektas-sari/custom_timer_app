@@ -30,7 +30,7 @@ Built with CustomPaint and Timer.periodic, this app demonstrates how to create c
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/custom_timer_app.git
+git clone https://github.com/bektas-sari/custom_timer_app.git
 cd custom_timer_app
 ```
 
