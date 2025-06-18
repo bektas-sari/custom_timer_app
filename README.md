@@ -1,4 +1,4 @@
-# ⏱️ Custom Timer App
+# ⏱️ Custom Timer App (Flutter App)
 
 A beautiful and responsive Flutter app that allows users to start, pause, and reset a circular countdown timer. 
 Built with CustomPaint and Timer.periodic, this app demonstrates how to create custom animated UI components in Flutter.
