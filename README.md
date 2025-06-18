@@ -56,7 +56,7 @@ Pull requests are welcome. If you’d like to suggest improvements or new featur
 
 ## 📄 License
 
-This project is open-source and available under the MIT License © 2024
+This project is open-source and available under the MIT License © 2025
 
 ---
 
